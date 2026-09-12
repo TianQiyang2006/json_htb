@@ -1,0 +1,76 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2019-08-08 22:49:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-08-08 22:49:27 192.168.228.129 GET / - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 - 200 0 0 3687
+2019-08-08 22:49:27 192.168.228.129 GET /robots.txt - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 - 404 0 2 3687
+2019-08-08 22:49:27 192.168.228.129 GET /vendor/fontawesome-free/css/all.min.css - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/ 404 0 2 0
+2019-08-08 22:49:27 192.168.228.129 GET /vendor/jquery-easing/jquery.easing.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/ 404 0 2 31
+2019-08-08 22:49:27 192.168.228.129 GET /vendor/bootstrap/js/bootstrap.bundle.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/ 404 0 2 31
+2019-08-08 22:49:27 192.168.228.129 GET /vendor/jquery/jquery.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/ 404 0 2 62
+2019-08-08 22:49:27 192.168.228.129 GET /js/sb-admin-2.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/ 404 0 2 109
+2019-08-08 22:49:27 192.168.228.129 GET /css/sb-admin-2.min.css - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/ 200 0 0 124
+2019-08-08 22:49:27 192.168.228.129 GET /vendor/chart.js/Chart.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/ 404 0 2 15
+2019-08-08 22:49:27 192.168.228.129 GET /js/demo/chart-pie-demo.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/ 404 0 2 0
+2019-08-08 22:49:27 192.168.228.129 GET /vendor/bootstrap/js/bootstrap.bundle.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/ 404 0 2 0
+2019-08-08 22:49:27 192.168.228.129 GET /js/app.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/ 200 0 0 0
+2019-08-08 22:49:27 192.168.228.129 GET /js/angular.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/ 200 0 0 0
+2019-08-08 22:49:27 192.168.228.129 GET /js/angular-cookies.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/ 200 0 0 15
+2019-08-08 22:49:27 192.168.228.129 GET /js/demo/chart-area-demo.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/ 404 0 2 31
+2019-08-08 22:49:27 192.168.228.129 GET /vendor/jquery-easing/jquery.easing.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/ 404 0 2 0
+2019-08-08 22:49:27 192.168.228.129 GET /js/sb-admin-2.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/ 404 0 2 15
+2019-08-08 22:49:27 192.168.228.129 GET /vendor/chart.js/Chart.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/ 404 0 2 15
+2019-08-08 22:49:27 192.168.228.129 GET /js/demo/chart-area-demo.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/ 404 0 2 0
+2019-08-08 22:49:27 192.168.228.129 GET /js/demo/chart-pie-demo.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/ 404 0 2 46
+2019-08-08 22:49:27 192.168.228.129 GET /img/undraw_posting_photo.svg - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/ 200 0 0 15
+2019-08-08 22:49:27 192.168.228.129 GET /img/interface.png - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/ 200 0 0 31
+2019-08-08 22:49:27 192.168.228.129 GET /img/user.png - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/ 200 0 0 46
+2019-08-08 22:49:27 192.168.228.129 GET /login.html - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/ 200 0 0 15
+2019-08-08 22:49:28 192.168.228.129 GET /vendor/fontawesome-free/css/all.min.css - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/login.html 404 0 2 0
+2019-08-08 22:49:28 192.168.228.129 GET /vendor/jquery/jquery.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/login.html 404 0 2 0
+2019-08-08 22:49:28 192.168.228.129 GET /vendor/bootstrap/js/bootstrap.bundle.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/login.html 404 0 2 0
+2019-08-08 22:49:28 192.168.228.129 GET /css/sb-admin-2.css - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/login.html 200 0 0 0
+2019-08-08 22:49:28 192.168.228.129 GET /vendor/jquery-easing/jquery.easing.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/login.html 404 0 2 46
+2019-08-08 22:49:28 192.168.228.129 GET /vendor/bootstrap/js/bootstrap.bundle.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/login.html 404 0 2 0
+2019-08-08 22:49:28 192.168.228.129 GET /vendor/jquery-easing/jquery.easing.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/login.html 404 0 2 0
+2019-08-08 22:49:28 192.168.228.129 GET /img/Hack-The-Box-logo.png - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.129/css/sb-admin-2.css 200 0 0 46
+2019-08-08 22:49:28 192.168.228.129 GET /favicon.ico - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 - 404 0 2 0
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2019-08-08 23:27:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-08-08 23:27:08 192.168.228.132 GET /robots.txt - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 - 404 0 2 3562
+2019-08-08 23:27:08 192.168.228.132 GET / - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 - 200 0 64 3640
+2019-08-08 23:27:13 192.168.228.132 GET / - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 - 200 0 0 62
+2019-08-08 23:27:13 192.168.228.132 GET /vendor/fontawesome-free/css/all.min.css - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/ 404 0 2 0
+2019-08-08 23:27:13 192.168.228.132 GET /vendor/jquery/jquery.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/ 404 0 2 15
+2019-08-08 23:27:13 192.168.228.132 GET /vendor/bootstrap/js/bootstrap.bundle.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/ 404 0 2 15
+2019-08-08 23:27:13 192.168.228.132 GET /vendor/jquery-easing/jquery.easing.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/ 404 0 2 15
+2019-08-08 23:27:13 192.168.228.132 GET /css/sb-admin-2.min.css - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/ 200 0 0 15
+2019-08-08 23:27:13 192.168.228.132 GET /js/sb-admin-2.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/ 404 0 2 15
+2019-08-08 23:27:13 192.168.228.132 GET /vendor/chart.js/Chart.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/ 404 0 2 15
+2019-08-08 23:27:13 192.168.228.132 GET /js/demo/chart-area-demo.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/ 404 0 2 0
+2019-08-08 23:27:13 192.168.228.132 GET /js/angular-cookies.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/ 200 0 0 0
+2019-08-08 23:27:13 192.168.228.132 GET /js/app.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/ 200 0 0 0
+2019-08-08 23:27:13 192.168.228.132 GET /img/interface.png - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/ 200 0 0 0
+2019-08-08 23:27:13 192.168.228.132 GET /js/angular.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/ 200 0 0 0
+2019-08-08 23:27:13 192.168.228.132 GET /img/undraw_posting_photo.svg - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/ 200 0 0 0
+2019-08-08 23:27:13 192.168.228.132 GET /js/demo/chart-pie-demo.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/ 404 0 2 46
+2019-08-08 23:27:13 192.168.228.132 GET /img/user.png - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/ 200 0 0 46
+2019-08-08 23:27:13 192.168.228.132 GET /vendor/bootstrap/js/bootstrap.bundle.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/ 404 0 2 31
+2019-08-08 23:27:13 192.168.228.132 GET /vendor/jquery-easing/jquery.easing.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/ 404 0 2 46
+2019-08-08 23:27:13 192.168.228.132 GET /js/sb-admin-2.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/ 404 0 2 0
+2019-08-08 23:27:13 192.168.228.132 GET /vendor/chart.js/Chart.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/ 404 0 2 15
+2019-08-08 23:27:13 192.168.228.132 GET /js/demo/chart-area-demo.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/ 404 0 2 0
+2019-08-08 23:27:13 192.168.228.132 GET /js/demo/chart-pie-demo.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/ 404 0 2 46
+2019-08-08 23:27:13 192.168.228.132 GET /favicon.ico - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 - 404 0 2 31
+2019-08-08 23:27:13 192.168.228.132 GET /login.html - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/ 200 0 0 0
+2019-08-08 23:27:13 192.168.228.132 GET /vendor/fontawesome-free/css/all.min.css - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/login.html 404 0 2 0
+2019-08-08 23:27:13 192.168.228.132 GET /vendor/jquery-easing/jquery.easing.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/login.html 404 0 2 0
+2019-08-08 23:27:13 192.168.228.132 GET /vendor/bootstrap/js/bootstrap.bundle.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/login.html 404 0 2 46
+2019-08-08 23:27:13 192.168.228.132 GET /vendor/jquery/jquery.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/login.html 404 0 2 46
+2019-08-08 23:27:13 192.168.228.132 GET /css/sb-admin-2.css - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/login.html 200 0 0 46
+2019-08-08 23:27:13 192.168.228.132 GET /vendor/bootstrap/js/bootstrap.bundle.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/login.html 404 0 2 0
+2019-08-08 23:27:13 192.168.228.132 GET /vendor/jquery-easing/jquery.easing.min.js - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/login.html 404 0 2 46
+2019-08-08 23:27:13 192.168.228.132 GET /img/Hack-The-Box-logo.png - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/css/sb-admin-2.css 200 0 0 46
+2019-08-08 23:27:33 192.168.228.132 POST /api/token - 80 - 192.168.228.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:68.0)+Gecko/20100101+Firefox/68.0 http://192.168.228.132/login.html 404 0 0 1984
